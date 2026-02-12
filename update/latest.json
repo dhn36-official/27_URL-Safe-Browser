@@ -1,11 +1,11 @@
-﻿{
-    "platforms":  {
-                      "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQ2pJMmNMSTNyeDAyeldPVE5wSVEyMllQU0VONlNGSkcwNnd3NkVLS1RwQndodStJWGY5KzB2QkFDY0ljblFIT002WVlLSDRNMzZiV0l5MUxPcFgvakZ2cUdjYW5xNEFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwODQxNDI1CWZpbGU6VVJMXzEuMC4wX3g2NC1zZXR1cC5leGUKTGNtcnpFdVhHc1puWDJSTDFjczZZdnpVQkZFSUh6MU5PRElVUUx0ZDhVT3A4UUR6QVoxcFRyL2t3RkcvQ0lVMnVmVElYT2hOVGZVRmdXVDUybGEyRGc9PQo=",
-                                             "url":  "https://raw.githubusercontent.com/dhn36-official/27_URL-Safe-Browser/master/update/URL_1.0.0_x64-setup.exe"
-                                         }
-                  },
-    "pub_date":  "2026-02-11T20:23:45Z",
-    "version":  "1.0.0",
-    "notes":  "URL 1.0.0 - Phien ban dau tien"
+{
+  "version": "1.0.1",
+  "notes": "URL Safe Browser",
+  "pub_date": "2026-02-12T21:36:39Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQ2pJMmNMSTNyeDJzMkI0YkNUMERCZ3RLSWs5cDViNTRmNk5YYXAzK2ZYY24wdTV3UWVMVEVSeVNTMzF5R0ltVkdsWFVaLzR0Wk45QkpvbS8wWHVCd0dnRmZiVTBjZUF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwOTMyMTk5CWZpbGU6VVJMXzEuMC4xX3g2NC1zZXR1cC5leGUKY1F4cDQxZ0QveXJ6TUl2b2Qxc2tOMXJKZlQvNlBoTUI3OFNTa1gvQ0VjWjdxU2lERngrei9uMThITy84MzdWSHVHVlFyejhnMlZtbnkrR2VpQUQ4Qmc9PQo=",
+      "url": "https://raw.githubusercontent.com/dhn36-official/27_URL-Safe-Browser/master/update/URL_1.0.1_x64-setup.exe"
+    }
+  }
 }
