@@ -1,11 +1,11 @@
 {
   "version": "1.0.1",
   "notes": "URL Safe Browser",
-  "pub_date": "2026-02-12T21:36:39Z",
+  "pub_date": "2026-02-14T20:45:50Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQ2pJMmNMSTNyeDJzMkI0YkNUMERCZ3RLSWs5cDViNTRmNk5YYXAzK2ZYY24wdTV3UWVMVEVSeVNTMzF5R0ltVkdsWFVaLzR0Wk45QkpvbS8wWHVCd0dnRmZiVTBjZUF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwOTMyMTk5CWZpbGU6VVJMXzEuMC4xX3g2NC1zZXR1cC5leGUKY1F4cDQxZ0QveXJ6TUl2b2Qxc2tOMXJKZlQvNlBoTUI3OFNTa1gvQ0VjWjdxU2lERngrei9uMThITy84MzdWSHVHVlFyejhnMlZtbnkrR2VpQUQ4Qmc9PQo=",
-      "url": "https://raw.githubusercontent.com/dhn36-official/27_URL-Safe-Browser/master/update/URL_1.0.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQ2pJMmNMSTNyeDdGUHREdWRpUVIwU3MxS3h4bmlIbXNDZHJEbVhxc1A5UHhnVDBkUm9VaWNCb09JM2lMLzFEVmRCd0NOZk9zZnJnaFl6WmpFZ3o5UXJUbTdxOTR5OXdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcxMTAxOTUwCWZpbGU6VVJMXzEuMC4xX3g2NC5leGUKNm92ekFleWp0aTA0RjY0d1FockR0a2VJU1UzanNvYmtqSDlJL2dJTURaSE9CdlJNY3psNHRHMm1XWTJCb21pb1QrNTFzWEx6ZXExTXNJYXV2cW5zQ3c9PQo=",
+      "url": "https://github.com/dhn36-official/27_URL-Safe-Browser/releases/download/v1.0.1/URL_1.0.1_x64.exe"
     }
   }
 }
