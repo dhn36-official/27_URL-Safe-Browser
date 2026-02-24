@@ -1,15 +1,15 @@
 {
   "version": "1.0.1",
   "notes": "URL Safe Browser",
-  "pub_date": "2026-02-16T00:06:23Z",
+  "pub_date": "2026-02-24T04:25:21Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQ2pJMmNMSTNyeC9qRmxvK21UWkhYZUJkRXhUWFdhbEg5VXJTUERzZXF2NGpwNkxEWFEzbzBtSkpHdy9mRGdxV3ZMUmNGUEswT2IwU3lKRGNWY0Z0QWI3V2NsMEJvaXdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcxMjAwMzgzCWZpbGU6VVJMXzEuMC4xX3g2NC1zZXR1cC5leGUKTkJLcnpybDZJUWZkaVpESTRicUJ1aWVJZE9qZXRML21IWEdpMGlXTFdSczJXczV0Q0Z4cCtuMnJMUHB6cHFHQVhCbzdlS1MwUElWWlJvNm42RHl3QlE9PQo=",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQ2pJMmNMSTNyeDZLVVZBS1A1cDQ1anV1b2Zyb2hnZ2NNY0RVUHJCdnhYM3pVRzZWdVZ2SVFhanVsYzVoMEVIQmdLUStRaEE0Umc0QmhlUEhob0tQcUhIdnRuRFF2bHdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcxOTA3MTIwCWZpbGU6VVJMXzEuMC4xX3g2NC1zZXR1cC5leGUKL2N5SnMzUDQvQjZEOVcxU010NmV3QW9VVjNqUFVQNHhKTFRNT0pqNENmS0lySVoyNmZZb051RHZDcEFOZUFWd2thRzQ3L2doV0Nzc0dUeW1NL0pRQXc9PQo=",
       "url": "https://github.com/dhn36-official/27_URL-Safe-Browser/releases/download/v1.0.1/URL_1.0.1_x64-setup.exe"
     },
     "windows-i686": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQ2pJMmNMSTNyeDVGbnVubHhYOGF3dFB5ekk0VVUwU1J1UGRiNTlPTWhCMURtUEE4MDAwQ1hpeEdCKzJlaklyL2tENG9yaHcvN1R3Uk9laVU2c0RBWXliZktkbno5eFFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcxMjAwMzgzCWZpbGU6VVJMXzEuMC4xX3g4Ni1zZXR1cC5leGUKVU9zL0RuMU5rT1JJbkRnUU5CNDNqMEc0QjlBOE1BZUlSaWJGV3I4alBxeEpuZm9HTkE1dlFqYnl5S2x6YXB6bVVFU2RtQk81MnFaSmhsYzluVGJjQmc9PQo=",
-      "url": "https://github.com/dhn36-official/27_URL-Safe-Browser/releases/download/v1.0.1/URL_1.0.1_x86-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQ2pJMmNMSTNyeDFxNzNwNVc0alhCZHd0b2k1VnRmd2hmd1hTSkVoVWorNEVDMmU0ckp0RzZxRjl6TDFka2x5T0FWVWhncmwySWYzTUZNbjN5Mm5meDZyTkgzMlRVSFFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcxOTA3MTIxCWZpbGU6VVJMXzEuMC4xX3g4Ni5leGUKN2MyUzYyaE9GT2swc0djZEI5TUd5UHVBMnRxZ2hBMXY1Z3VVRlQ3eGpoWU9UcFltWnFnZnFVTmdqaVY3NU9FVjRHWjYzaWI2Y2EvcGNjVG13djdZQWc9PQo=",
+      "url": "https://github.com/dhn36-official/27_URL-Safe-Browser/releases/download/v1.0.1/URL_1.0.1_x86.exe"
     }
   }
 }
